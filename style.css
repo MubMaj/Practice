@@ -1,0 +1,15 @@
+*{
+    margin: auto;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.btn{
+    display: block;
+    margin: 4px;
+    padding: 4px;
+    width: 70px;
+    cursor: pointer;
+}
